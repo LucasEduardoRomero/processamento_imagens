@@ -25,7 +25,10 @@ Repositório Para a Disciplina de Processamento de Imagens, UFMT.
 
 ### Unidade I
 
-- [ ] Introdução Geral.
-- [ ] Amostragem e Quantização
-- [ ] Iniciando OpenCV
-- [ ] Sub e Super Amostragem e Sub e Super Quantização
+- [x] Introdução Geral.
+- [x] Amostragem e Quantização
+- [x] Iniciando OpenCV
+- [x] Sub e Super Amostragem e Sub e Super Quantização
+
+### Unidade II
+
